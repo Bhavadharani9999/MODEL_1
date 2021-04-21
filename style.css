@@ -1,0 +1,90 @@
+body{
+	background-color: #f0f0f0;
+}
+.card{	
+	background-color: white;
+	height: 112px;
+	margin-top: 24px;
+	margin-right: 24px;
+	margin-left: 24px;
+	margin-bottom: 36px;
+	display: flex;
+}
+.img_card{
+	height: 80px;
+	padding:12px 20px 12px 12px;
+}	 
+.name{	
+	margin-left: 20px;
+}	
+.dline{	
+	margin-left: 20px;
+}
+.card1{
+    margin-top: 40px;
+    border-top:3px solid #453d5a;
+    margin-left: 24px;
+    width: 10%;
+    background-color: white;
+}
+.card2{
+    color: #55534C;
+    background-color: white;
+    height: 400px;
+    width: 50%;
+    margin-left: 24px;
+    display: flex;
+}
+
+.card1 legend{    
+    padding: 10px;
+    color: black;
+    font-family: system-ui;
+    font-weight: 500;
+
+}
+
+
+.part1{
+    margin-top: 1%;
+    font-size:15px;
+    font-family: sans-serif;
+    min-width: 30%;
+    font-weight:bolder;
+    padding: 10px;
+}
+.part2{
+    width: 20%;
+    padding: 5px;
+    font-weight: 500;
+    font-family:sans-serif;  
+    margin-top: 1%;
+}
+.part3{
+    width: 30%;
+    font-family:sans-serif;
+    font-weight: 500;
+    padding-top: 5px;
+    margin-top: 1%;
+}
+.card3{
+    color: #55534C;
+    width: 30%;
+    background-color: white;
+    margin-left:8%;
+    height: 400px;
+}
+.card3 p{
+    color: black;
+    font-weight: 500;
+}
+.block1{
+    min-width: 30%;
+    font-weight: bold; 
+    margin-left: 50px; 
+    margin-top: 35px;
+    padding-top: 10px;
+}
+.block2{
+    margin-left: 100px;
+}
